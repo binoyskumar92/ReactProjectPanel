@@ -8,7 +8,7 @@ const NavBar = () => {
         <div>
             <nav className="nav-wrapper purple darken-3">
                 <div className="container">
-                    <Link to='/' className="brand-logo">Mario Plan</Link>
+                    <Link to='/' className="brand-logo">Project Portal</Link>
                     <SignedInLinks />
                     <SignedOutLinks />
                 </div>
